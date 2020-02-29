@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ImportResource;
 public class Myspringboot01Application {
 
 	public static void main(String[] args) {
+		System.out.println("aaa");
 		SpringApplication.run(Myspringboot01Application.class, args);
 	}
 
